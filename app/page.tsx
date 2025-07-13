@@ -33,7 +33,7 @@ export default async function Home() {
         <p className="text-foreground-neutral-subtle">{profile.description}</p>
         <a
           className="bg-background-neutral-default border-border-neutral-subtle text-body-medium text-foreground-neutral-subtle hover:bg-background-neutral-faded hover:text-foreground-neutral-default inline-flex w-fit gap-2 rounded-md border px-4 py-2 font-medium transition"
-          href="https://github.com/zalodias/portfolio-demo"
+          href="https://github.com/zalodias/notion-portfolio-demo"
           target="_blank"
         >
           <svg
